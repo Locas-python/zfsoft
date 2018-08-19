@@ -14,10 +14,10 @@
 
 运行过程
 
-![running](https://github.com/Locas-python/zfsoft/blob/master/running.png?raw=true}
+![running](https://github.com/Locas-python/zfsoft/blob/master/running.png?raw=true)
 
 运行结果
 
 ![result1](https://github.com/Locas-python/zfsoft/blob/master/result1.png?raw=true)
 
-![result2](
+![result2](https://github.com/Locas-python/zfsoft/blob/master/result2.png?raw=true)
